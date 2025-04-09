@@ -1,0 +1,23 @@
+{
+  "name": "batch-calls",
+  "version": "1.0.0",
+  "description": "Script to batch Polkadot transactions from a CSV file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "polkadot",
+    "batch",
+    "transactions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^10.11.2",
+    "@polkadot/util": "^12.6.2",
+    "@polkadot/util-crypto": "^12.6.2",
+    "csv-parser": "^3.0.0"
+  },
+  "type": "module"
+}
