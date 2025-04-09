@@ -4,7 +4,7 @@ This script helps you batch multiple Polkadot transactions from a CSV file and g
 
 ## Prerequisites
 
-- Node.js (v14 or later)
+- Node.js (v22 or later)
 - npm or yarn
 
 ## Installation
